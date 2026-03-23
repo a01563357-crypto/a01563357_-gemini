@@ -28,12 +28,12 @@ SERVICE_ACCOUNT_FILE = os.getenv(
 
 DRIVE_FOLDER_ID = os.getenv(
     "GOOGLE_DRIVE_FOLDER_ID",
-    "1u8qfvAnrBLku8VN-399b-0flaAF7XUZc",
+    "/126Kf0bSsqElmnI0JriqNwIYKazVbnHj4?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 )
 
 SPREADSHEET_ID = os.getenv(
     "GOOGLE_SHEETS_SPREADSHEET_ID",
-    "19BKG6k0h_axJ9v8xh08faGTgfhxqnryRQtX3s-HdH6s",
+    "https://docs.google.com/spreadsheets/d/1E6ZVxll10E4dy2bnbmduhVDpSNDC1bVj4npiAaujD1k/edit?gid=0#gid=0",
 )
 
 SHEET_NAME = os.getenv(
@@ -43,7 +43,7 @@ SHEET_NAME = os.getenv(
 
 GEMINI_API_KEY = os.getenv(
     "GEMINI_API_KEY",
-    "AIzaSyBkpH2QgQ4xzF7XM9Hp1S-bh_139eZuO_A",
+    "AIzaSyBEvnYNpqfV4dE1sVn4-Xe2F2NcXhobrSk",
 )
 
 GEMINI_MODEL = os.getenv(
