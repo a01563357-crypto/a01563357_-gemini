@@ -28,12 +28,12 @@ SERVICE_ACCOUNT_FILE = os.getenv(
 
 DRIVE_FOLDER_ID = os.getenv(
     "GOOGLE_DRIVE_FOLDER_ID",
-    "/126Kf0bSsqElmnI0JriqNwIYKazVbnHj4?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
+    "126Kf0bSsqElmnI0JriqNwIYKazVbnHj4",
 )
 
 SPREADSHEET_ID = os.getenv(
     "GOOGLE_SHEETS_SPREADSHEET_ID",
-    "https://docs.google.com/spreadsheets/d/1E6ZVxll10E4dy2bnbmduhVDpSNDC1bVj4npiAaujD1k/edit?gid=0#gid=0",
+    "1E6ZVxll10E4dy2bnbmduhVDpSNDC1bVj4npiAaujD1k",
 )
 
 SHEET_NAME = os.getenv(
